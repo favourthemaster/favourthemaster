@@ -55,7 +55,7 @@ VS Code · Git · REST APIs · Firebase · WebSockets · Cloudinary · AWS (basi
 
 ## 📫 Let's Connect
 
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffavour_dmaster%3Ft%3DtNVDYG9WZ00B6Gzg0WhZ4g%26s%3D08)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffavour_dmaster%3Ft%3DtNVDYG9WZ00B6Gzg0WhZ4g%26s%3D08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-nwachukwu-972b3633a)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nwachukwufavs@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
