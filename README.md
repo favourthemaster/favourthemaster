@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name] — aka [yourHandle]
+# 👋 Hi there, I'm Favour
 
 🎓 Young Developer | 🧠 Backend & Mobile App Dev | 🚀 Building Scalable Products
 
@@ -31,8 +31,8 @@ VS Code · Git · REST APIs · Firebase · WebSockets · Cloudinary · AWS (basi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=favourthemaster&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favourthemaster&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
@@ -55,6 +55,7 @@ VS Code · Git · REST APIs · Firebase · WebSockets · Cloudinary · AWS (basi
 
 ## 📫 Let's Connect
 
+[![X](https://img.shields.io/twitter/url)](https://x.com/favour_dmaster?t=tNVDYG9WZ00B6Gzg0WhZ4g&s=08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-nwachukwu-972b3633a)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nwachukwufavs@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
