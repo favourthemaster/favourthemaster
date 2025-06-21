@@ -39,15 +39,15 @@ VS Code · Git · REST APIs · Firebase · WebSockets · Cloudinary · AWS (basi
 
 ## 📂 Featured Projects
 
-- 🔹 **Instagram Clone (WIP)** – Flutter + MongoDB + Node.js + BLoC + Live Broadcast
-- 🔹 **CBT Exam App** – AI-powered exam engine with real-time question generation
-- 🔹 **Custom Chat App** – WebSocket-based messaging with user profiles and notifications
+- 🔹 **Weather App** – Flutter + REST API + Provider
+- 🔹 **Notes App** – A simple app for taking notes. Built with a modern User Interface
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced MongoDB Aggregation
+- Golang for Backend Systems and Microservices
+- Postgresql
 - Flutter animation & transitions
 - Clean backend architecture patterns
 
