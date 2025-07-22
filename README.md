@@ -22,6 +22,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-1.21+-blue?logo=go)
 
 **Other:**  
 VS Code · Git · REST APIs · Firebase · WebSockets · Cloudinary · AWS (basic)
